@@ -6,8 +6,8 @@ from API.function import *
 
 nowhour = getNowHour()
 
-apikey = 'c421fe46f3ca15625256ee0fbe4adc05'
-secret = 'a0aa152439e973935e71f3c1955e971d'
+apikey = 'API KEY'
+secret = 'API SECRET'
 
 # 변동폭: 높아질수록 거래 빈도가 줄어 보수적 투자
 k = 0.5
